@@ -20,3 +20,8 @@ You can change the key binding like this: press <kbd>command</kbd> + <kbd>,</kbd
 ![./figures/changing-keybindings.png](./figures/changing-keybindings.png)
 
 I personally use <kbd>command</kbd> + <kbd>I</kbd> for running current execution task, and <kbd>shfit</kbd> + <kbd>command</kbd> + <kbd>I</kbd>
+
+## Using `yarn` for package management
+
+Choose the global yarn according to this screenclip:
+![./figures/setting-up-yarn.png](./figures/setting-up-yarn.png)
